@@ -8,9 +8,11 @@ dependencies:
   core_elements: ">=0.0.6 <0.1.0"
   paper_elements: any
 transformers:
-- angular
 - polymer:
     entry_points:
+    - web/index.html
+- angular:
+    html_files:
     - web/index.html
 dependency_overrides:
   polymer: ">= 0.11.1-dev < 0.12.0"
