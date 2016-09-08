@@ -5,7 +5,7 @@
 [ ] support request => Please do not submit support request here, instead see https://github.com/angular/angular/blob/master/CONTRIBUTING.md#question
 ```
 
-**Current behavior** <!-- Describe how the bug manifests.  -->
+**Current behavior** <!-- Describe how the bug manifests. -->
 
 **Expected behavior** <!-- Describe what the behavior would be without bug. -->
 
