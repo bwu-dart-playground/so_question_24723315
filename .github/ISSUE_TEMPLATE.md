@@ -6,11 +6,9 @@
 ```
 
 **Current behavior**
-
 <!-- Describe how the bug manifests.  -->
 
 **Expected behavior**
-
 <!-- Describe what the behavior would be without bug. -->
 
 **Reproduction of the problem**
@@ -21,7 +19,7 @@
 **Please tell us about your environment:**
 
 * **Angular version:** 2.0.0-rc.X
- 
+
 * **Browser:** [all | Chrome XX | Firefox XX | IE XX | Safari XX | Mobile Chrome XX | Android X.X Web Browser | iOS XX Safari | iOS XX UIWebView | iOS XX WKWebView ] 
  
 * **Language:** [all | TypeScript X.X | ES6/7 | ES5]
