@@ -6,7 +6,8 @@
 ```
 
 **Current behavior** 
-<<!-- Describe how the bug manifests. -->
+
+<!-- Describe how the bug manifests. -->
 
 **Expected behavior**
 <!-- Describe what the behavior would be without bug. -->
